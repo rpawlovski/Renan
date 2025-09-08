@@ -5,19 +5,19 @@
 <img src="https://img.shields.io/badge/LinkedIn-Renan_Pawlovski-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:renan.pawlovski1@gmail.com">
-<img src="https://img.shields.io/badge/Email-SEU_EMAIL_AQUI-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+<img src="https://img.shields.io/badge/Email-renan.pawlovski1@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
 </a>
 </div>
 
 ## Projetos próprios desenvolvidos
 
-- **Pets-house** - Plataforma para conectar amantes de animais de estimação (adicione uma breve descrição do seu projeto principal)
+- **Pets-house** - Plataforma para conectar amantes de animais de estimação, entre tutores e cuidadores
 
 ### Ferramentas que uso
 
-**Linguagens:** HTML, CSS, JavaScript
+**Linguagens:** HTML, CSS, JavaScript, C, C#, C++, PHP, MySQL, Phyton, Cisco Packet tracer
 
-**Aprendendo:** (adicione aqui o que está aprendendo, exemplo: React, Node.js, etc.)
+**Aprendendo:** Phyton, Cisco Packet tracer
 
 ---
 
