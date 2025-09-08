@@ -1,7 +1,7 @@
 # Renan Pawlovski
 
 <div>
-<a href="https://www.linkedin.com/in/renan-rodrigues-5b7436347/">
+<a href="https://www.linkedin.com/in/renan-pawlovski-5b7436347/">
 <img src="https://img.shields.io/badge/LinkedIn-Renan_Pawlovski-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:renan.pawlovski1@gmail.com">
